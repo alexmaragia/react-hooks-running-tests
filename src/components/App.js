@@ -1,13 +1,9 @@
-import React from "react";
-import Article from './Article'
-import Header from './Header'
+// src/components/Article.js
 
-function App() {
-  return <div className="App">
-    learn react!
-    <Header/>
-    <Article />
-  </div>;
+import React from "react";
+
+function Article() {
+  return <div>please pass this test</div>;
 }
 
-export default App;
+export default Article;
